@@ -1,0 +1,7 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+/Student Management.sln
